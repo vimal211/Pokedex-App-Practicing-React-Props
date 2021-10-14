@@ -1,0 +1,23 @@
+.card {
+  background-color: azure;
+  width: fit-content;
+  padding: 20px 50px;
+  border-radius: 10px;
+  box-shadow: 1px 2px 5px black;
+}
+
+.card img {
+  width: 120px;
+  height: 110px;
+}
+
+.card h3 {
+  text-align: center;
+  color: rgb(27, 27, 27);
+}
+
+.card p {
+  text-align: center;
+  color: black;
+  font-weight: 700;
+}
